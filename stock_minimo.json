@@ -1,0 +1,386 @@
+[
+    {
+        "code": "2081106",
+        "stock": 1
+    },
+    {
+        "code": "19745115",
+        "stock": 2862
+    },
+    {
+        "code": "1051A",
+        "stock": 1
+    },
+    {
+        "code": "1CH-RPTR-V",
+        "stock": 1
+    },
+    {
+        "code": "5-8F-5-8F",
+        "stock": 44
+    },
+    {
+        "code": "5-8MU-TL412",
+        "stock": 284
+    },
+    {
+        "code": "ACAU-B2",
+        "stock": 1
+    },
+    {
+        "code": "ACAV",
+        "stock": 4
+    },
+    {
+        "code": "ANT150D",
+        "stock": 2
+    },
+    {
+        "code": "B-V-349C",
+        "stock": 1
+    },
+    {
+        "code": "E8400-TG",
+        "stock": 1
+    },
+    {
+        "code": "E8400A",
+        "stock": 1
+    },
+    {
+        "code": "ELFAMP03",
+        "stock": 10
+    },
+    {
+        "code": "GK55-12",
+        "stock": 21
+    },
+    {
+        "code": "HE1CH-SA-V2",
+        "stock": 1
+    },
+    {
+        "code": "IS-LF",
+        "stock": 5
+    },
+    {
+        "code": "JP-HE",
+        "stock": 3
+    },
+    {
+        "code": "JP-RG142-BNCM-BNCM",
+        "stock": 4
+    },
+    {
+        "code": "JP-RG142-BNCM-NM",
+        "stock": 11
+    },
+    {
+        "code": "JP-RG142-NM-NM",
+        "stock": 5
+    },
+    {
+        "code": "JP-RG142-NM-NM-2",
+        "stock": 2
+    },
+    {
+        "code": "LA075",
+        "stock": 4
+    },
+    {
+        "code": "LA077",
+        "stock": 7
+    },
+    {
+        "code": "LFC-350",
+        "stock": 120
+    },
+    {
+        "code": "MB-8-014DD",
+        "stock": 1
+    },
+    {
+        "code": "MB-VW-014D",
+        "stock": 4
+    },
+    {
+        "code": "MB-VW-ADAPTER",
+        "stock": 1
+    },
+    {
+        "code": "MNL-100-3-N",
+        "stock": 1
+    },
+    {
+        "code": "MNL-5-3-N",
+        "stock": 9
+    },
+    {
+        "code": "MNPS-VU-02-M",
+        "stock": 45
+    },
+    {
+        "code": "MP-VW-314D",
+        "stock": 1
+    },
+    {
+        "code": "MPT-800-06-NF",
+        "stock": 2
+    },
+    {
+        "code": "MWPS-195-02-NF-145",
+        "stock": 4
+    },
+    {
+        "code": "MWPS-195-03-NF-145",
+        "stock": 4
+    },
+    {
+        "code": "NF-RF5012Z",
+        "stock": 9
+    },
+    {
+        "code": "NF-RMC7850",
+        "stock": 130
+    },
+    {
+        "code": "NLT-3X14AWG",
+        "stock": 8
+    },
+    {
+        "code": "NM-RF5012Z",
+        "stock": 94
+    },
+    {
+        "code": "NM-RG11",
+        "stock": 4
+    },
+    {
+        "code": "NM-RMC7850",
+        "stock": 20
+    },
+    {
+        "code": "PSU1260",
+        "stock": 1
+    },
+    {
+        "code": "PSU24-55-VPC2",
+        "stock": 10
+    },
+    {
+        "code": "PSU24-55A",
+        "stock": 3
+    },
+    {
+        "code": "PSU24-7",
+        "stock": 3
+    },
+    {
+        "code": "R-9-322CD",
+        "stock": 1
+    },
+    {
+        "code": "R-T-322CD",
+        "stock": 2
+    },
+    {
+        "code": "R-VW-122C",
+        "stock": 5
+    },
+    {
+        "code": "RB-SITE-42-6",
+        "stock": 1
+    },
+    {
+        "code": "RF5012Z",
+        "stock": 1
+    },
+    {
+        "code": "RF5012Z-M",
+        "stock": 7
+    },
+    {
+        "code": "RFA-4024-WB",
+        "stock": 1
+    },
+    {
+        "code": "RG11-NF",
+        "stock": 1
+    },
+    {
+        "code": "RG11SM",
+        "stock": 1
+    },
+    {
+        "code": "RMC5078-TOOL",
+        "stock": 1
+    },
+    {
+        "code": "RMC7850",
+        "stock": 26
+    },
+    {
+        "code": "SDR-120-24",
+        "stock": 2
+    },
+    {
+        "code": "SF12NMNM15",
+        "stock": 102
+    },
+    {
+        "code": "SF12NMNM3",
+        "stock": 112
+    },
+    {
+        "code": "SL-ANT",
+        "stock": 1
+    },
+    {
+        "code": "SL-TG",
+        "stock": 1
+    },
+    {
+        "code": "SMT-C-8",
+        "stock": 3
+    },
+    {
+        "code": "SMT-C-8U",
+        "stock": 1
+    },
+    {
+        "code": "SUP-B-LF",
+        "stock": 4
+    },
+    {
+        "code": "SUP-LF",
+        "stock": 1
+    },
+    {
+        "code": "TRAM1115",
+        "stock": 18
+    },
+    {
+        "code": "TRAM1239",
+        "stock": 16
+    },
+    {
+        "code": "UBU1",
+        "stock": 24
+    },
+    {
+        "code": "UBU2",
+        "stock": 11
+    },
+    {
+        "code": "UHE16-B4",
+        "stock": 1
+    },
+    {
+        "code": "UHE8-B4",
+        "stock": 1
+    },
+    {
+        "code": "UJB",
+        "stock": 30
+    },
+    {
+        "code": "ULAD-B4",
+        "stock": 13
+    },
+    {
+        "code": "ULT",
+        "stock": 18
+    },
+    {
+        "code": "UPC2",
+        "stock": 9
+    },
+    {
+        "code": "USA",
+        "stock": 7
+    },
+    {
+        "code": "VBU1",
+        "stock": 200
+    },
+    {
+        "code": "VBU2",
+        "stock": 150
+    },
+    {
+        "code": "VHE1-48",
+        "stock": 1
+    },
+    {
+        "code": "VHE16",
+        "stock": 3
+    },
+    {
+        "code": "VHE8",
+        "stock": 3
+    },
+    {
+        "code": "VJB",
+        "stock": 200
+    },
+    {
+        "code": "VJB-N",
+        "stock": 5
+    },
+    {
+        "code": "VLAD",
+        "stock": 350
+    },
+    {
+        "code": "VLADB1",
+        "stock": 1
+    },
+    {
+        "code": "VLADSRG",
+        "stock": 6
+    },
+    {
+        "code": "VLS-T",
+        "stock": 3
+    },
+    {
+        "code": "VLS-TG",
+        "stock": 1
+    },
+    {
+        "code": "VLT",
+        "stock": 150
+    },
+    {
+        "code": "VPC2",
+        "stock": 30
+    },
+    {
+        "code": "VRDBA",
+        "stock": 37
+    },
+    {
+        "code": "VSA",
+        "stock": 150
+    },
+    {
+        "code": "VSDR-LR",
+        "stock": 4
+    },
+    {
+        "code": "VSDR-ST",
+        "stock": 1
+    },
+    {
+        "code": "VSDR-TG",
+        "stock": 1
+    },
+    {
+        "code": "VSR-PCB7.1",
+        "stock": 10
+    },
+    {
+        "code": "VSR-PCB8",
+        "stock": 7
+    }
+]
