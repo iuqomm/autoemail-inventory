@@ -1,0 +1,1367 @@
+{
+    "success": true,
+    "message": "Productos obtenidos exitosamente",
+    "exceptionMessage": null,
+    "totalItems": 1,
+    "pageNumber": 1,
+    "itemsPerPage": 1,
+    "productList": [
+        {
+            "active": "S",
+            "code": "VJB",
+            "externalCode": null,
+            "internalCode": null,
+            "name": "CAJA DE UNION DE LINEA (JOINER BOX)",
+            "detailedDescription": "CAJA DE UNION DE LINEA (JOINER BOX)",
+            "comment": "",
+            "creationDate": "2025-08-22T15:34:11.243",
+            "companyID": "20250730193205803001",
+            "categoryID": 8,
+            "coinID": "USD",
+            "sellPrice": 0.00000000,
+            "stock": 164.00000000,
+            "type": "A",
+            "unit": "UN",
+            "imptoAd": "N",
+            "idImptoAd": "",
+            "usesLotes": false,
+            "usesSeries": false,
+            "availableSale": true,
+            "priceListDetail": [
+                {
+                    "priceList": {
+                        "companyID": "20250730193205803001",
+                        "priceListID": 1,
+                        "description": "TARIFA PUBLICA CHL",
+                        "factor": 0.00000000,
+                        "range": 0
+                    },
+                    "priceListID": 1,
+                    "productID": "VJB",
+                    "unitPrice": 118.00000000
+                },
+                {
+                    "priceList": {
+                        "companyID": "20250730193205803001",
+                        "priceListID": 2,
+                        "description": "TARIFA UQOMM PERU",
+                        "factor": 0.00000000,
+                        "range": 0
+                    },
+                    "priceListID": 2,
+                    "productID": "VJB",
+                    "unitPrice": 108.84000000
+                },
+                {
+                    "priceList": {
+                        "companyID": "20250730193205803001",
+                        "priceListID": 18,
+                        "description": "TARIFA BRASIL",
+                        "factor": 0.00000000,
+                        "range": 0
+                    },
+                    "priceListID": 18,
+                    "productID": "VJB",
+                    "unitPrice": 57.00000000
+                },
+                {
+                    "priceList": {
+                        "companyID": "20250730193205803001",
+                        "priceListID": 19,
+                        "description": "TARIFA STRATA",
+                        "factor": 0.00000000,
+                        "range": 0
+                    },
+                    "priceListID": 19,
+                    "productID": "VJB",
+                    "unitPrice": 51.10000000
+                },
+                {
+                    "priceList": {
+                        "companyID": "20250730193205803001",
+                        "priceListID": 20,
+                        "description": "TARIFA COLOMBIA",
+                        "factor": 0.00000000,
+                        "range": 0
+                    },
+                    "priceListID": 20,
+                    "productID": "VJB",
+                    "unitPrice": 125.00000000
+                },
+                {
+                    "priceList": {
+                        "companyID": "20250730193205803001",
+                        "priceListID": 21,
+                        "description": "TARIFA ARGENTINA FOB",
+                        "factor": 0.00000000,
+                        "range": 0
+                    },
+                    "priceListID": 21,
+                    "productID": "VJB",
+                    "unitPrice": 125.00000000
+                },
+                {
+                    "priceList": {
+                        "companyID": "20250730193205803001",
+                        "priceListID": 22,
+                        "description": "TARIFA MEXICO",
+                        "factor": 0.00000000,
+                        "range": 0
+                    },
+                    "priceListID": 22,
+                    "productID": "VJB",
+                    "unitPrice": 125.00000000
+                },
+                {
+                    "priceList": {
+                        "companyID": "20250730193205803001",
+                        "priceListID": 23,
+                        "description": "TARIFA SUDAFRICA",
+                        "factor": 0.00000000,
+                        "range": 0
+                    },
+                    "priceListID": 23,
+                    "productID": "VJB",
+                    "unitPrice": 51.10000000
+                }
+            ],
+            "priceListDetailVol": [],
+            "stockDetail": [
+                {
+                    "companyID": "20250730193205803001",
+                    "productID": "VJB",
+                    "storageID": "BODEGA2",
+                    "stock": 110.00000000,
+                    "totalReservedStock": 0
+                },
+                {
+                    "companyID": "20250730193205803001",
+                    "productID": "VJB",
+                    "storageID": "BODEGACENTRAL",
+                    "stock": 54.00000000,
+                    "totalReservedStock": 2135.00000000
+                }
+            ],
+            "reservedStock": [
+                {
+                    "orderNumber": 32,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 30.00000000
+                },
+                {
+                    "orderNumber": 39,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 23,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 50,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 56,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 57,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 15,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 84,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 103,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 100,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 120,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 156,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 160,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 136,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 197,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 194,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 50.00000000
+                },
+                {
+                    "orderNumber": 210,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 214,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 209,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 15.00000000
+                },
+                {
+                    "orderNumber": 240,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 252,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 52.00000000
+                },
+                {
+                    "orderNumber": 275,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 50.00000000
+                },
+                {
+                    "orderNumber": 272,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 280,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 281,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 40.00000000
+                },
+                {
+                    "orderNumber": 288,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 66,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 77.00000000
+                },
+                {
+                    "orderNumber": 298,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 318,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 259,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 330,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 329,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 338,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 354,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 358,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 310,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 80.00000000
+                },
+                {
+                    "orderNumber": 364,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 360,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 379,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 294,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 398,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 419,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 451,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 457,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 450,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 460,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 415,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 479,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 480,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 493,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 6.00000000
+                },
+                {
+                    "orderNumber": 498,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 506,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 6.00000000
+                },
+                {
+                    "orderNumber": 541,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 553,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 574,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 581,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 12.00000000
+                },
+                {
+                    "orderNumber": 582,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 585,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 6.00000000
+                },
+                {
+                    "orderNumber": 612,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 348,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 626,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 665,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 672,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 738,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 754,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 771,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 718,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 13.00000000
+                },
+                {
+                    "orderNumber": 789,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 822,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 827,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 846,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 879,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 881,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 883,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 889,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 23.00000000
+                },
+                {
+                    "orderNumber": 873,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 909,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 941,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 954,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 937,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 967,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 947,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 990,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 993,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 996,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 969,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 1024,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 15.00000000
+                },
+                {
+                    "orderNumber": 998,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1031,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1052,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 1064,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1092,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1094,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 30.00000000
+                },
+                {
+                    "orderNumber": 1113,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1122,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1119,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 15.00000000
+                },
+                {
+                    "orderNumber": 1145,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 1109,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 1183,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1128,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1200,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 30.00000000
+                },
+                {
+                    "orderNumber": 1172,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 7.00000000
+                },
+                {
+                    "orderNumber": 1220,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 1213,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 1235,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 1228,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1168,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1254,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 1192,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1301,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1293,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 1316,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1311,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 8.00000000
+                },
+                {
+                    "orderNumber": 1315,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1342,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 1334,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 1370,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1363,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1373,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1408,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 8.00000000
+                },
+                {
+                    "orderNumber": 1414,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1418,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 1429,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1436,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 1482,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 1474,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1115,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 1461,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 1490,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1531,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 1535,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1600,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1582,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1620,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 1622,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1619,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 1648,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 1562,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1680,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1674,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1686,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 20.00000000
+                },
+                {
+                    "orderNumber": 1426,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1687,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 1711,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 8.00000000
+                },
+                {
+                    "orderNumber": 1705,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 1703,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 8.00000000
+                },
+                {
+                    "orderNumber": 1723,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1727,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1726,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 65.00000000
+                },
+                {
+                    "orderNumber": 1736,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1676,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 6.00000000
+                },
+                {
+                    "orderNumber": 1741,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 7.00000000
+                },
+                {
+                    "orderNumber": 1732,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1779,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 1773,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 1757,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 30.00000000
+                },
+                {
+                    "orderNumber": 1770,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 1772,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 1783,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 1795,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 100.00000000
+                },
+                {
+                    "orderNumber": 1796,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 50.00000000
+                },
+                {
+                    "orderNumber": 1792,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1809,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 1790,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 7.00000000
+                },
+                {
+                    "orderNumber": 1812,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 37.00000000
+                },
+                {
+                    "orderNumber": 1822,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 1827,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1823,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 30.00000000
+                },
+                {
+                    "orderNumber": 1836,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 6.00000000
+                },
+                {
+                    "orderNumber": 1858,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1853,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 100.00000000
+                },
+                {
+                    "orderNumber": 1855,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 1872,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1832,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1902,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 36.00000000
+                },
+                {
+                    "orderNumber": 1937,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 1942,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 17.00000000
+                },
+                {
+                    "orderNumber": 1924,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 30.00000000
+                },
+                {
+                    "orderNumber": 1938,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 8.00000000
+                },
+                {
+                    "orderNumber": 1954,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 1974,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 1968,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 6.00000000
+                },
+                {
+                    "orderNumber": 1994,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 28.00000000
+                },
+                {
+                    "orderNumber": 1972,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 38.00000000
+                },
+                {
+                    "orderNumber": 2017,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 2009,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 2019,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 4.00000000
+                },
+                {
+                    "orderNumber": 2245,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 15.00000000
+                },
+                {
+                    "orderNumber": 2259,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 2274,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 2281,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 2318,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 2322,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 93.00000000
+                },
+                {
+                    "orderNumber": 2325,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 2.00000000
+                },
+                {
+                    "orderNumber": 2333,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 2349,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 5.00000000
+                },
+                {
+                    "orderNumber": 2331,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 15.00000000
+                },
+                {
+                    "orderNumber": 2290,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 10.00000000
+                },
+                {
+                    "orderNumber": 2342,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 15.00000000
+                },
+                {
+                    "orderNumber": 2307,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                },
+                {
+                    "orderNumber": 2385,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 2410,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 1.00000000
+                },
+                {
+                    "orderNumber": 2746,
+                    "shopID": "Local",
+                    "storageID": "BODEGACENTRAL",
+                    "reservedStock": 3.00000000
+                }
+            ]
+        }
+    ]
+}
